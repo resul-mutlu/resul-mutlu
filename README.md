@@ -3,7 +3,7 @@
 Electrical-Electronics Engineering student at **METU (ODTÜ)**, Ankara — expected graduation June 2028.
 I'm working toward a career in **Design Verification**: writing RTL, building testbenches, and debugging hardware in simulation.
 
-🔎 Looking for a **Summer 2027 DV / digital hardware internship** in Europe, the UK or Switzerland.
+🔎 Looking for a **Summer 2027 DV / digital hardware internship** in Europe.
 
 ### Projects
 | Project | What it is |
