@@ -17,9 +17,9 @@ I'm working toward a career in **Design Verification**: writing RTL, building te
 - Moving the testbench to UVM
 
 ### Tools & skills
-**HDL / Verification:** SystemVerilog, UVM (learning), RTL design, digital logic, computer architecture, RISC-V
-**Simulation:** Icarus Verilog, GTKWave
-**Other:** Python, MATLAB, Git, Linux (WSL)
+- **HDL / Verification:** SystemVerilog, UVM (learning), RTL design, digital logic, computer architecture, RISC-V
+- **Simulation:** Icarus Verilog, GTKWave
+- **Other:** Python, MATLAB, Git, Linux (WSL)
 
 ### Languages
 Turkish (native) · English (professional) · Spanish (intermediate) · German (beginner)
